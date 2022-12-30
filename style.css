@@ -1,0 +1,134 @@
+.grids {
+    margin-bottom: 2%;
+}
+.bigBorder {
+    margin-top: 1%;
+}
+.opus {
+    text-decoration: underline;
+    font-weight: 700;
+    font-size: 40px;
+    color: green;
+}
+.after-opus {
+    margin-left: 45% ;
+}
+.fixed {
+    position: fixed;
+    right: 2%;  
+    bottom: 2%;
+}
+.login {
+    background-color:aqua ;
+    color: black;
+}
+
+.carusel img {
+    width: 100%;
+    height: 100%;
+}
+.carusel {
+    width: 100%;
+    height: 600px;
+}
+.blog {
+    text-align: center;
+    margin-top: 5%;
+}
+.cardlar1 {
+    width: 80%;
+    margin: 0 auto;
+}
+.cardlar1-1 {
+    border: none;
+}
+.cardlar2 {
+    width:80%;
+    margin: 0 auto;
+}
+.sarlavha {
+    text-align: center;
+    margin-top: 5% ;
+    margin-bottom: 3%;
+}
+.course-bt {
+    text-align: end;
+}
+.course-pic img {
+    width: 100%;
+    height: 100%;
+}
+.course-pic {
+    width: 30%;
+    height:300px;
+}
+.teachers-pic img {
+    width: 100%;
+    height: 100%;
+}
+.teachers-pic {
+    width: 15%;
+    height: 300px;
+    margin-bottom: 2%;
+}
+.overal-img img {
+    width: 100%;
+    height: 100%;
+}
+.overal-img {
+    width: 80%;
+    height: 400px;
+    margin: 0 auto;
+}
+.login-btn {
+    position: fixed;
+    right: 3%;
+    bottom: 3%;
+}
+.overalGrid {
+    background-color: dimgrey;
+    margin-top: 10%;
+    color: white;
+}
+
+.overalGridIn {
+    background-color: dimgrey;
+    border: none;
+    width:80% ;
+    margin: 0 auto;
+    color: white;
+}
+.textStyle{
+    color: white;
+}
+
+
+
+/* create a Course */
+
+.pic img {
+    width: 100%;
+    height: 100%;
+}
+.pic {
+    width: 100%;
+    height: 400px;
+}
+.courseRow {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.left {
+    font-size: 20px;
+    margin-bottom: 3%;
+}
+.symble {
+    font-size: 0;
+}
+.create-btn {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
