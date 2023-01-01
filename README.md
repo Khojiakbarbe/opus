@@ -1,2 +1,2 @@
 # opus
-this is created by learner (js , css)
+this is created by learner (html , css)
